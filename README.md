@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://chat.sylvain.pro"><img src="https://chat.sylvain.pro/assets/images/logo.png" alt="Logo" width="25%" height="auto"/></a>
 
-  [![Version](https://custom-icon-badges.demolab.com/badge/Version%20:-v0.1.0-ee6464?logo=chat.sylvain.pro&labelColor=23272A)](https://github.com/20syldev/chat/releases/latest)
   # Chat - Messages privés temporaires via mon API
+  [![Version](https://custom-icon-badges.demolab.com/badge/Version%20:-v0.2.0-ee6464?logo=chat.sylvain.pro&labelColor=23272A)](https://github.com/20syldev/chat/releases/latest)
 </div>
 
 ---
