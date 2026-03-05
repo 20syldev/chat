@@ -91,7 +91,7 @@ const transformMessage = (message) => {
 
 // Récupérer les informations stockées
 const fetchMessages = async () => {
-    const res = await fetch(`https://api.sylvain.pro/${version}/chat${chatMode === 'private' ? '/private' : ''}`, {
+    const res = await fetch(`https://api.sylvain.sh/${version}/chat${chatMode === 'private' ? '/private' : ''}`, {
         method: chatMode === 'private' ? 'POST' : 'GET',
         headers: {
             'Content-Type': 'application/json'
@@ -205,7 +205,7 @@ chatForm.addEventListener('submit', async (e) => {
 
     try {
         userMessage = true;
-        const res = await fetch(`https://api.sylvain.pro/${version}/chat`, {
+        const res = await fetch(`https://api.sylvain.sh/${version}/chat`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

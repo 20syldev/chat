@@ -1,4 +1,4 @@
-name: Deploy chat.sylvain.pro
+name: Deploy chat.sylvain.sh
 
 on:
   push:
