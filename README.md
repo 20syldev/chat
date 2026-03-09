@@ -2,7 +2,7 @@
   <a href="https://chat.sylvain.sh"><img src="https://chat.sylvain.sh/assets/images/logo.png" alt="Logo" width="25%" height="auto"/></a>
 
   # Chat - Messages privés temporaires via mon API
-  [![Version](https://custom-icon-badges.demolab.com/badge/Version%20:-v0.6.0-ee6464?logo=chat.sylvain.sh&labelColor=23272A)](https://github.com/20syldev/chat/releases/latest)
+  [![Version](https://custom-icon-badges.demolab.com/badge/Version%20:-v0.7.0-ee6464?logo=chat.sylvain.sh&labelColor=23272A)](https://github.com/20syldev/chat/releases/latest)
 </div>
 
 ---
